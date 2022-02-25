@@ -1,1 +1,1 @@
-# Discord Gnome bot, create for a meme
+# Discord Gnome bot, created for a meme
